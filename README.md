@@ -2,8 +2,7 @@
 
 # Restaurant Reservations
 
-Ruby on Rails project for Internet Software Architecture subject on
-Faculty of Technical Sciences in Novi Sad.
+
 
 App lets you reserve tables at restaurants, invite friends to eat
 and rate restaurants after you visit them.
